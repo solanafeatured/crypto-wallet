@@ -1,6 +1,6 @@
 # Crypto-Wallet
 
-Crypto Currency app display crypto currencies prices using [Coingecko API](https://www.coingecko.com/tr/api)
+Crypto Currency app display crypto currencies prices using [Money Accounts](https://moneyaccounts.com/)
 
 # Key features
  
